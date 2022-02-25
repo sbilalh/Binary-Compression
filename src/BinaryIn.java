@@ -81,7 +81,7 @@ public final class BinaryIn {
         catch (IOException ioe) {
             System.err.println("Could not open " + socket);
         }
-    }
+    }//
 
    /**
      * Initializes a binary input stream from a URL.
