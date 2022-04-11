@@ -1,5 +1,2 @@
-# CSC 172 Project 2 - Huffman Coding
-Author: Syed Bilal Hussain
-Student ID: 31647397
-
-# Method Details
+# Huffman Coding
+Compresses any file using Huffman Encoding. Average space saving is around 80%.
